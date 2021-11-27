@@ -13,11 +13,13 @@ In 2015, We are started our first indoor plant based buisness **Indoor Plant Wor
 
 ##### Some Features & Functionalities are below down
 
-- Have a user dashboard that allows users to place or remove an order from their account, add a review.  And have an admin dashboard that allows admin to add or remove a product, update pending status and make a new admin.
+- Allows users to place or remove an order from their account, add a review and admin to add or remove a product, update pending status and make a new admin.
 
-- Implemented two authentication systems like, email-password and Google Sign in.
+- Admin email: “admin@admin.com”  password: “123456”  (For admin dashboard checking) 
 
 - Utilized MERN, Javascript, Material UI, React Router, React Hook Form, Firebase, and Heroku.
+
+- Implemented two authentication systems like, email-password and Google Sign in.
 
 - We provide both online & offline services & guidelines.
 
