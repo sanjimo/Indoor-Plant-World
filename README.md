@@ -15,8 +15,6 @@ In 2015, We are started our first indoor plant based buisness **Indoor Plant Wor
 
 - Allows users to place or remove an order from their account, add a review and admin to add or remove a product, update pending status and make a new admin.
 
-- Admin email: “admin@admin.com”  password: “123456”  (For admin dashboard checking) 
-
 - Utilized MERN, Javascript, Material UI, React Router, React Hook Form, Firebase, and Heroku.
 
 - Implemented two authentication systems like, email-password and Google Sign in.
